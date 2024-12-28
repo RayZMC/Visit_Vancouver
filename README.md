@@ -1,4 +1,17 @@
 # Visit Vancouver
+Exploring a new city is an adventure filled with endless possibilities waiting to be
+discovered around every corner. However, sometimes it is easy to miss certain points of interest if
+you do not plan ahead. Planning a tour of a city means finding exciting places to visit, such as
+landmarks, entertainment, and food. It's also helpful to know where chain restaurants are compared
+to local ones, to see the city's food scene. Furthermore, when choosing a place to stay, it's important
+to pick somewhere close to fun things to do. This project will aim to enhance the city exploration
+experience by offering information on must-see attractions, navigating diverse culinary landscapes,
+and selecting convenient accommodations near key amenities and attractions. Specifically, the
+project aims to solve the following questions:
+
+1. What routes in the city offer a variety of interesting locations?
+2. Are chain restaurants more common in certain areas, and how can their density be visualized?
+3. Which Airbnb locations have the best nearby amenities?
 
 ## Set up
 Install libraries:
